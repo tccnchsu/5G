@@ -1,4 +1,4 @@
-#  Deep-Learning---Hsu---SoSe18
+# Hsu---SoSe18
 5G
 
 揭秘4G核心專利
